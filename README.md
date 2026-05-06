@@ -1,6 +1,8 @@
 
 # House Price Prediction: A Comparative Study of ML Models
 
+Hi, this is Kritika
+
 ## 📌 Project Overview
 This project applies supervised machine learning techniques to predict housing prices using the Boston Housing Dataset. The study compares the performance of regression algorithms—Linear Regression, Decision Tree, and Random Forest—based on evaluation metrics, highlighting the most accurate model.
 
